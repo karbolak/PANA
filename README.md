@@ -9,6 +9,11 @@ PANA to chatbot stworzony z myślą o polskich studentach w Holandii. Jego celem
 - Zbudowanie bazy wiedzy opartej na rzeczywistych pytaniach i doświadczeniach polskich studentów.
 - Integracja z chatbotem opartym na modelu Bielik od SpeakLeash, który zostanie fine-tunowany na podstawie zgromadzonych danych.
 
+## 🤔 Dlaczego Bielik?
+- **Wsparcie dla polskiego języka**: Bielik został stworzony z myślą o specyfice języka polskiego, co zapewnia lepsze zrozumienie kontekstu i precyzyjniejsze odpowiedzi na pytania polskich studentów. 
+- **Etyczne pozyskiwanie danych**: Model Bielik został wytrenowany na danych pozyskanych w sposób etyczny, co gwarantuje wysoką jakość i bezpieczeństwo informacji (i nie wspieramy naruszania praw autorskich).
+- **Otwartość i dostępność**: Jako otwarty model językowy, Bielik wspiera rozwój społeczności AI w Polsce, umożliwiając transparentność i szeroką współpracę z globalną społecznością badawczą i technologiczną.
+
 ## 🏗 Jak to działa?
 1. **Zbieranie danych**  
    - Studenci wypełniają formularz, zgłaszając pytania i odpowiedzi na najczęstsze problemy.
@@ -25,7 +30,7 @@ PANA to chatbot stworzony z myślą o polskich studentach w Holandii. Jego celem
    - Chatbot będzie dostępny jako aplikacja webowa i/lub integracja z Telegramem/Discordem.
 
 ## 🚀 Jak mogę pomóc?
-- Wypełnij formularz z pytaniami i odpowiedziami! (🔗 [Link do formularza](#))
+- Wypełnij formularz z pytaniami i odpowiedziami! (🔗 [Link do formularza](https://forms.gle/tkqtMxj7XRyHEqth6))
 - Zgłoś się jako tester do wczesnej wersji chatbota.
 - Dołącz do zespołu i pomóż rozwijać projekt!
 
@@ -36,7 +41,7 @@ PANA to chatbot stworzony z myślą o polskich studentach w Holandii. Jego celem
 - Google Forms / Sheets do zbierania danych
 
 ## 📜 Licencja
-Projekt jest dostępny na licencji **MIT**, co oznacza, że możesz go dowolnie używać, modyfikować i udostępniać, pod warunkiem dołączenia informacji o oryginalnym autorze.  
+Projekt jest dostępny na licencji **MIT**, co oznacza, że możesz go dowolnie używać, modyfikować i udostępniać, pod warunkiem dołączenia informacji o oryginalnym autorze.
 
 Należy jednak pamiętać, że chatbot korzysta z modelu **Bielik**, który działa na licencji **Apache 2.0**. Oznacza to, że wszelkie użycie tego modelu wymaga przestrzegania tej licencji. Szczegóły: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
@@ -50,6 +55,11 @@ PANA is a chatbot designed for Polish students in the Netherlands. Its goal is t
 - Provide verified information about studies, housing, jobs, and formalities in NL.
 - Build a knowledge base based on real questions and experiences of Polish students.
 - Integrate a chatbot based on the Bielik model from SpeakLeash, fine-tuned with collected data.
+
+## 🤔 Why Bielik?
+- **Support for the Polish language**: Bielik was created with the specifics of the Polish language in mind, ensuring better understanding of context and more precise 
+- **Ethical data collection**: Bielik was trained with data that was ethically obtained, which guarantees high quality and security of information (and also we're not supporting copyright infringement)
+- **Openness and accessibility**: As an open LLM, Bielik supports the development of the AI in Poland, allowing for transparency and wide cooperation with global academic and technological community.
 
 ## 🏗 How It Works?
 1. **Data Collection**  
@@ -67,7 +77,7 @@ PANA is a chatbot designed for Polish students in the Netherlands. Its goal is t
    - The chatbot will be available as a web application and/or Telegram/Discord integration.
 
 ## 🚀 How Can You Help?
-- Fill in the form with questions and answers! (🔗 [Form Link](#))
+- Fill in the form with questions and answers! (🔗 [Form Link](https://forms.gle/tkqtMxj7XRyHEqth6))
 - Sign up as a tester for the early chatbot version.
 - Join the team and help develop the project!
 
@@ -78,8 +88,6 @@ PANA is a chatbot designed for Polish students in the Netherlands. Its goal is t
 - Google Forms / Sheets for data collection
 
 ## 📜 License
-This project is released under the **MIT License**, which allows free use, modification, and distribution, as long as attribution to the original author is provided.  
+This project is released under the **MIT License**, which allows free use, modification, and distribution, as long as attribution to the original author is provided.
 
 However, please note that the chatbot utilizes the **Bielik** model, which operates under the **Apache 2.0 License**. This means that any use of this model requires compliance with its licensing terms. Details: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
-
